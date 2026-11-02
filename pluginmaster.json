@@ -1,0 +1,37 @@
+[
+  {
+    "Author": "Critical_Impact",
+    "Name": "Allagan Tools",
+    "InternalName": "InventoryTools",
+    "AssemblyVersion": "1.15.0.13",
+    "TestingAssemblyVersion": null,
+    "Description": "Allagan Tools 的主要用途是追踪你的角色、雇员和部队仓库中的物品。借助其筛选系统，你再也不会丢失物品，也不会不知道它们应该整理到哪里。\n\n除此之外，它还包含丰富的其他功能，包括：\n\t- 制作规划\n\t- 市场版集成\n\t- 搜索/整理以及为制作选择材料时，在背包中高亮显示物品\n\t- 物品窗口，包含购买和来源等信息\n\t- 可完整搜索的副本/怪物/飞艇/潜水艇窗口\n\t- 可设置复杂搜索条件的筛选系统，精确查找特定物品\n\t- 鼠标悬停时的提示框集成，可查看物品所在位置",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/ahjsrhj/InventoryToolsCN",
+    "Tags": [
+      "Inventory",
+      "Sorting",
+      "Filtering"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/ahjsrhj/InventoryToolsCN/main/InventoryTools/Images/banner1.png",
+      "https://raw.githubusercontent.com/ahjsrhj/InventoryToolsCN/main/InventoryTools/Images/screenshot1.png",
+      "https://raw.githubusercontent.com/ahjsrhj/InventoryToolsCN/main/InventoryTools/Images/screenshot2.png",
+      "https://raw.githubusercontent.com/ahjsrhj/InventoryToolsCN/main/InventoryTools/Images/screenshot3.png",
+      "https://raw.githubusercontent.com/ahjsrhj/InventoryToolsCN/main/InventoryTools/Images/screenshot4.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/ahjsrhj/InventoryToolsCN/main/InventoryTools/Images/icon.png",
+    "Punchline": "随时整理 FFXIV 物品，快速定位应该整理到哪里，规划制作，并搜索怪物、副本、飞艇和潜水艇！",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/ahjsrhj/InventoryToolsCN/releases/download/v15.0.13/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ahjsrhj/InventoryToolsCN/releases/download/v15.0.13/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ahjsrhj/InventoryToolsCN/releases/download/v15.0.13/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1793608068
+  }
+]
